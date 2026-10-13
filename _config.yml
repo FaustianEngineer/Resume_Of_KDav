@@ -9,6 +9,7 @@ repository: "FaustianEngineer/Resume_Of_KDav"
 header:
   image: /assets/images/banner-husky.jpg
 
+
 include:
   - _pages
   - assets
